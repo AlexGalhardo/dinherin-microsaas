@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://dinherin.com" target="_blank">dinherin.com</a></h1>
+<h1 align="center">dinherin-microsaas</h1>
 
 ![Landing Page](https://dinherin.com/assets/landing-page.gif)
 
