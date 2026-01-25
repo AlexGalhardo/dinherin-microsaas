@@ -1,6 +1,6 @@
 <h1 align="center">dinherin-microsaas</h1>
 
-![Landing Page]([https://dinherin.com/assets/landing-page.gif](https://raw.githubusercontent.com/AlexGalhardo/dinherin-microsaas/refs/heads/main/public/assets/landing-page.gif))
+![Landing Page]([https://raw.githubusercontent.com/AlexGalhardo/dinherin-microsaas/refs/heads/main/public/assets/landing-page.gif])
 
 ## Introduction
 
